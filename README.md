@@ -29,11 +29,12 @@ Users should be able to:
 
 ![Mobile](./screenshots/mobile.png)
 ![Desktop](./screenshots/desktop.png)
+![Desktop hover](./screenshots/desktop-hover.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-custom-properties-without-framewrok-2iaJcs9UPG)
-- Live Site URL: [Add live site URL here](https://pr3t0r.github.io/results-summary-component-main/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/css-custom-properties-without-framewrok-2iaJcs9UPG)
+- Live Site URL: [live site URL](https://pr3t0r.github.io/results-summary-component-main/)
 
 ## My process
 
