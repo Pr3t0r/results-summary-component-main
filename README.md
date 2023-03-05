@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/mobile.png)
-![](./screenshots/desktop.png.png)
+![Mobile](./screenshots/mobile.png)
+![Desktop](./screenshots/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-custom-properties-without-framewrok-2iaJcs9UPG)
+- Live Site URL: [Add live site URL here](https://pr3t0r.github.io/results-summary-component-main/)
 
 ## My process
 
@@ -41,7 +41,6 @@ Users should be able to:
 
 - VSCODE
 - CSS custom properties
-- CSS custom variables
 - without framework
 - Mobile-first workflow
 - flexbox
@@ -61,4 +60,4 @@ Like using alt text on images, using section tags and headings corretly.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Pr3t0r)
+- Frontend Mentor - [@Pr3t0r](https://www.frontendmentor.io/profile/Pr3t0r)
